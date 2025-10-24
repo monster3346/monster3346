@@ -1,16 +1,28 @@
-## Hi there 👋
+# Moon Learn 学 - Ứng dụng Ôn & Thi Trắc Nghiệm (Offline)
 
-<!--
-**monster3346/monster3346** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Giới thiệu
+Ứng dụng giúp bạn tải file đề thi (PDF hoặc DOCX), tự động nhận diện câu hỏi và đáp án, làm bài trực tuyến hoặc thi thử với đồng hồ đếm giờ.
 
-Here are some ideas to get you started:
+## ⚙️ Tính năng
+- Đọc file **PDF / DOCX**
+- Hai chế độ: **Ôn tập** / **Thi thử**
+- Hiển thị tiến trình, % hoàn thành
+- Bảng câu hỏi tương tác
+- Hỗ trợ **phím tắt ← / →**
+- Làm lại câu sai
+- Tự động đổi **Dark Mode**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Công nghệ
+- HTML5, CSS3, JavaScript
+- [pdf.js](https://mozilla.github.io/pdf.js/)
+- [mammoth.js](https://github.com/mwilliamson/mammoth.js)
+
+## 💡 Cách sử dụng
+1. Mở `index.html` trong trình duyệt (hoặc GitHub Pages).
+2. Upload file đề `.pdf` hoặc `.docx`.
+3. Chọn chế độ → Nhấn **Bắt đầu**.
+4. Làm bài và xem kết quả!
+
+## 👨‍💻 Tác giả
+Phát triển bởi **[Tên của bạn]** – Dự án học tập mã nguồn mở.  
+© 2025. Tất cả quyền được bảo lưu.
